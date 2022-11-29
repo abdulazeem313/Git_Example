@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-27T20:42:00 IST" name="SuiteFrames" finished-at="2022-11-27T20:42:03 IST" duration-ms="2906">
+  <suite started-at="2022-11-29T15:28:13 IST" name="SuiteFrames" finished-at="2022-11-29T15:28:18 IST" duration-ms="4427">
     <groups>
     </groups>
-    <test started-at="2022-11-27T20:42:00 IST" name="TestFrames" finished-at="2022-11-27T20:42:03 IST" duration-ms="2906">
+    <test started-at="2022-11-29T15:28:13 IST" name="TestFrames" finished-at="2022-11-29T15:28:18 IST" duration-ms="4427">
       <class name="Testng.TestFrames">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Testng.TestFrames@7880cdf3]" started-at="2022-11-27T20:42:00 IST" name="beforeClass" finished-at="2022-11-27T20:42:01 IST" duration-ms="1221" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Testng.TestFrames@33b37288]" started-at="2022-11-29T15:28:13 IST" name="beforeClass" finished-at="2022-11-29T15:28:15 IST" duration-ms="1551" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TestLaunchFrames()[pri:1, instance:Testng.TestFrames@7880cdf3]" started-at="2022-11-27T20:42:01 IST" name="TestLaunchFrames" finished-at="2022-11-27T20:42:02 IST" duration-ms="1269" status="PASS">
+        <test-method signature="TestLaunchFrames()[pri:1, instance:Testng.TestFrames@33b37288]" started-at="2022-11-29T15:28:15 IST" name="TestLaunchFrames" finished-at="2022-11-29T15:28:17 IST" duration-ms="2054" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestLaunchFrames -->
-        <test-method signature="TestFramesInPage()[pri:2, instance:Testng.TestFrames@7880cdf3]" started-at="2022-11-27T20:42:02 IST" name="TestFramesInPage" finished-at="2022-11-27T20:42:02 IST" depends-on-methods="Testng.TestFrames.TestLaunchFrames" duration-ms="13" status="PASS">
+        <test-method signature="TestFramesInPage()[pri:2, instance:Testng.TestFrames@33b37288]" started-at="2022-11-29T15:28:17 IST" name="TestFramesInPage" finished-at="2022-11-29T15:28:17 IST" depends-on-methods="Testng.TestFrames.TestLaunchFrames" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestFramesInPage -->
-        <test-method signature="TestFrameNavigation()[pri:3, instance:Testng.TestFrames@7880cdf3]" started-at="2022-11-27T20:42:02 IST" name="TestFrameNavigation" finished-at="2022-11-27T20:42:02 IST" depends-on-methods="Testng.TestFrames.TestFramesInPage" duration-ms="198" status="PASS">
+        <test-method signature="TestFrameNavigation()[pri:3, instance:Testng.TestFrames@33b37288]" started-at="2022-11-29T15:28:17 IST" name="TestFrameNavigation" finished-at="2022-11-29T15:28:17 IST" depends-on-methods="Testng.TestFrames.TestFramesInPage" duration-ms="509" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestFrameNavigation -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:Testng.TestFrames@7880cdf3]" started-at="2022-11-27T20:42:02 IST" name="afterClass" finished-at="2022-11-27T20:42:03 IST" duration-ms="180" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Testng.TestFrames@33b37288]" started-at="2022-11-29T15:28:17 IST" name="afterClass" finished-at="2022-11-29T15:28:18 IST" duration-ms="260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
